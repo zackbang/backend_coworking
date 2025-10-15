@@ -1,2 +1,2 @@
-app/database.py
-app/__pycache__/
+database.py
+__pycache__/
