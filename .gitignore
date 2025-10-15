@@ -5,3 +5,10 @@ __pycache__/
 .env.*
 venv/
 .venv/
+dist/
+build/
+*.log
+.idea/
+.vscode/
+**/.pytest_cache/
+**/.mypy_cache/
