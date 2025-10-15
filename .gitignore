@@ -1,2 +1,7 @@
 database.py
 __pycache__/
+*.pyc
+.env
+.env.*
+venv/
+.venv/
